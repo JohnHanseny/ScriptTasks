@@ -1,1 +1,40 @@
 # ScriptTasks
+   <div>
+        <p>Scriptasks Respect and protect the privacy of all users who use the Service. In order to provide you with more accurate and personalized services, Scriptasks will use and disclose your personal information in accordance with this Privacy Policy. However, Scriptasks will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Scriptasks will not disclose or provide such information to third parties without your prior permission. Scriptasks will update this Privacy Policy from time to time. By agreeing to the ScriptasksService Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the ScriptasksService Use Agreement.
+        
+        </p>
+        <p>a) When you sign up for a Scriptasks account, you provide personal registration information based on Scriptasks;</p>
+              <p> b) when you use Scriptasksweb service, Or when accessing the Scriptasks platform page, Scriptasks automatically receives and records information on your browser and computer, including but not limited to your IP address, browser type, language used, Access date and time, hardware and software feature information, and web page records you need;</p>
+             <p>  c) Scriptasks User personal data obtained from business partners through legal channels.</p>
+               You understand and agree that the following information does not apply to this Privacy Policy:</p>
+              <p>  a) Keyword information you entered when using the search service provided by the Scriptasks platform;</p>
+                <p>b) ScriptasksCollected Information about the information you posted on Scriptasks, including but not limited to participation, transaction information, and evaluation details;</p>
+               <p> c) Violation of the law or violation of Scriptasks rules and Scriptasks The action you have taken.</p>
+        </p>
+        <p>Use of information</p>
+       <p> a) Scriptasks will not offer, sell, rent, share or trade your personal information to any unrelated third party, unless you have your permission in advance, or the third party and Scriptasks (with Scriptasks affiliates) provides services to you individually or collectively, and at the end of the service, it will be barred from accessing all such materials that it has previously been able to access.</p>
+       <p> b) Scriptasks does not allow any third party to collect, edit, sell or distribute your personal information by any means. Any Scriptasks platform user who engages in the above activities, once found, Scriptasks has the right to immediately terminate the service agreement with the user.</p>
+        <p>c) For the purpose of serving the user, Scriptasks may use your personal information to provide you with information of interest to you, including but not limited to sending you product and service information, or with Scriptasks Partners share information so they can send you information about their products and services (the latter requires your prior consent).</p>
+        </p>
+        <p>4、Information Disclosure In the following circumstances, Scriptasks will disclose your personal information in whole or in part in accordance with your personal wishes or the law:</p>
+       <p> a) Disclose to third parties with your prior consent; b) In order to provide the products and services you request, you must share your personal information with third parties;</p>
+       <p> c) disclose to third parties or administrative and judicial authorities in accordance with the relevant provisions of the law or the requirements of the administrative or judicial authorities;</p>
+        <p>d) If you are in violation of relevant Chinese laws, regulations or Scriptasks service agreements or related rules, you need to disclose it to third parties;</p>
+        <p>e) If you are a qualified IP complainant and have filed Complaints should be disclosed to the respondent at the request of the complainant so that both parties can handle possible rights disputes;</p>
+        <p>f) In a transaction created on the Scriptasks platform, if any party to the transaction performs or partially performs If the transaction obligation and the request for information disclosure are made, Scriptasks has the right to decide to provide the user with the necessary information such as the contact information of the counterparty to facilitate the completion of the transaction or the resolution of the dispute.</p>
+       <p> g) Other Scriptasks disclosures deemed appropriate by law, regulation or website policy.
+        
+        </p>
+        <p>Information Storage and Exchange ScriptasksThe information and materials collected about you will be stored on Scriptasks and/or its affiliates' servers, which may be sent to you. Countries, regions or Scriptasks collect information and data outside the country and are accessed, stored and displayed outside the country.
+        </p>
+        <p>Use of cookies </p>
+         <p> a) If you have not refused to accept cookies, Scriptasks will set or access cookies on your computer so that you can log in or use Scriptasks Platform services or features. ScriptasksUse cookies to provide you with more thoughtful and personalized services, including promotional services.
+          </p>
+         <p> b) You have the right to accept or decline to accept cookies. You can refuse to accept cookies by modifying your browser settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use Scriptasksnetwork services or features that rely on cookies.
+          </p>
+         <p> c) This policy applies to information obtained through the cookies set by Scriptasks.
+        </p>
+        <p>Information Security </p>
+        <p>a) Scriptasks The account has security protection. Please keep your username and password information safe. Scriptasks will ensure that your information is not lost, misused and altered by security measures such as encrypting user passwords. Despite the aforementioned security measures, please also note that there are no “perfect security measures” on the information network. </p>
+       <p> b) When using Scriptasks network service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information has been compromised, especially if the Scriptasks username and password are compromised, please contact Scriptasks customer service immediately so that Scriptasks take action.</p>
+    </div>
